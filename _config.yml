@@ -1,1 +1,4 @@
 name: Language Variation and Cognition Lab
+
+markdown: kramdown
+highlighter: rouge
