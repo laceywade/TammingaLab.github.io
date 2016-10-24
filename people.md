@@ -5,7 +5,7 @@ permalink: /people/
 published: true
 ---
 
-## Members
+## Lab members
 
 <img src="http://tammingalab.github.io/images/meredith.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 **Meredith Tamminga** is the lab director and an Assistant Professor of Linguistics at the University of Pennsylvania. She received her Ph.D. from the University of Pennsylvania in 2014.
