@@ -3,6 +3,7 @@ layout: default
 title: People
 permalink: /people/
 published: true
+navigation_weight: 3
 ---
 
 ## Lab members
