@@ -1,7 +1,8 @@
 ---
 layout: default
-permalink: /about
+permalink: /about/
 published: true
+title: About
 ---
 
 Our research group shares the following general goals:
