@@ -1,3 +1,5 @@
+# permalinks
+permalink:		pretty
 
 # Setup
 title:               Language Variation and Cognition Lab
@@ -21,6 +23,7 @@ author:
 # Custom vars
 version:             2.0.0
 github:
+repo:				https://github.com/poole/poole
 
 # Gems
 gems:
