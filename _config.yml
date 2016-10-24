@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
+title:               Language Variation and Cognition Lab
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 http://tammingalab.github.io
 paginate:            1
 baseurl:             ""
 
