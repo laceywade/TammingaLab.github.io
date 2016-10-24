@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Language Variation and Cognition Lab
+title: People
 permalink: /people/
 published: true
 ---
