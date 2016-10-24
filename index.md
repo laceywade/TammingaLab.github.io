@@ -3,7 +3,7 @@ layout: default
 title: Language Variation and Cognition Lab
 published: true
 ---
-## ![alt text](https://tammingalab.github.io/images/light_logo_small.png "Lab logo") Language Variation and Cognition Lab
+![alt text](https://tammingalab.github.io/images/light_logo_small.png "Lab logo") ## Language Variation and Cognition Lab
 
 People use language in ways that are constantly shifting. Think about how differently you might talk when you’re hanging out with your friends than when you’re at the doctor or meeting with a professor! All kinds of things about our social lives, our identities, and the contexts we find ourselves in influence the way we speak. What’s more, although we do have some control over our speech style, most of the time we make these adjustments on the fly, without really thinking about it.
     		
