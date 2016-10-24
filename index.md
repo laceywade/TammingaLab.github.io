@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Language Variation and Cognition Lab
+title: Home
 published: true
+navigation_weight: 1
 ---
 
 
