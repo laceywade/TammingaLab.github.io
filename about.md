@@ -3,6 +3,7 @@ layout: default
 permalink: /about/
 published: true
 title: About
+navigation_weight: 2
 ---
 
 Our research group shares the following general goals:
