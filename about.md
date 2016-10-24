@@ -12,6 +12,7 @@ Our research group shares the following general goals:
 - To develop quantitative approaches to the temporal dynamics of language variation
 
 Current projects in the lab are investigating:
+
 - The cognitive and personality traits of the leaders of language change
 - Subjective reactions to stable versus changing variables
 - The effect of talker specificity on repetition priming
