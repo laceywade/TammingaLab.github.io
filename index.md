@@ -3,7 +3,6 @@ layout: default
 title: Language Variation and Cognition Lab
 published: true
 ---
-<!--![alt text](https://tammingalab.github.io/images/light_logo_small.png "Lab logo") -->
 
 ## Language Variation and Cognition Lab
 
