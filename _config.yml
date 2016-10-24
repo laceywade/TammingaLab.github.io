@@ -3,9 +3,7 @@
 # Setup
 title:               Language Variation and Cognition Lab
 tagline:            University of Pennsylvania
-site.url:                 http://tammingalab.github.io
-paginate:            1
-baseurl:             
+         
 
 # Assets
 #
@@ -17,13 +15,12 @@ sass:
 # About/contact
 author:
   name:              Meredith Tamminga
-  url:               https://www.meredithtamminga.com
+  url:               http://www.meredithtamminga.com
   email:            Tamminga-lab@sas.upenn.edu
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/TammingaLab/TammingaLab.github.io
 
 # Gems
 gems:
