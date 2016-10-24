@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Language Variation and Cognition Lab
+published: true
 ---
-# Welcome!
 
-This is the website for the Language Variation and Cognition Lab. We are currently under construction! 
+
+This is the website for the Language Variation and Cognition Lab. We are currently under construction!
