@@ -1,10 +1,9 @@
 # Permalinks
-permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Language Variation and Cognition Lab
+tagline:            University of Pennsylvania
+url:                 http://tammingalab.github.io
 paginate:            1
 baseurl:             ""
 
@@ -17,14 +16,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Meredith Tamminga
+  url:               https://www.meredithtamminga.com
+  email:            Tamminga-lab@sas.upenn.edu
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/TammingaLab/TammingaLab.github.io
 
 # Gems
 gems:
