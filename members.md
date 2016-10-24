@@ -43,7 +43,7 @@ published: true
 <br style="clear:both" />
 
 
-<img src="http://tammingalab.github.io/images/tad.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="http://tammingalab.github.io/images/tad.png" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 **Edward Rider-Bezerra**  is a current graduate student doing research in the variation and cognition lab. His primary interests include language change and morphosyntactic processing, as well as the relationship between memory and language.
 
 <br style="clear:both" />
