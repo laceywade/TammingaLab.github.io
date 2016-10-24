@@ -3,7 +3,7 @@
 # Setup
 title:               Language Variation and Cognition Lab
 tagline:            University of Pennsylvania
-url:                 http://tammingalab.github.io
+site.url:                 http://tammingalab.github.io
 paginate:            1
 baseurl:             
 
