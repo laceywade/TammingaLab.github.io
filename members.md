@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Language Variation and Cognition Lab
-permalink: /members/
+permalink: /people/
 published: true
 ---
 
