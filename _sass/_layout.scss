@@ -36,6 +36,9 @@ a:hover {
 	color: $link-hover-color;
 	text-decoration: underline;
 }
+a:active {
+	color: green
+}
 header {
 	background: $header;
 	padding: 0px 15px;
