@@ -1,13 +1,15 @@
 $content-width: 800px;
-$main: #FFF056;
+$main: #ecf0f1; /*body background color */
 $font-style: 'Open Sans', sans-serif;
-$font-color: #FFF056;
-$link-color: #FFF056;
-$link-hover-color: $main;
+$font-color: #2c3e50; /*paragraph text*/
+$link-color: #bdc3c7; /*will end up in header*/
+$link-hover-color: #e74c3c;
+$link-inactive-color: #95a5a6;
+$link-active-color: #fff;
 $heading-font: 'Muli', sans-serif;
-$heading-font-color: #FFF056;
-$light: #FFFFFF;
-$header:  #EE7546;
+$heading-font-color: #2D3142; /*for page title*/
+$light: #E6EBE0; /*bottom of page? haven't changed*/
+$header:  #2c3e50;
 
 *,
 *::before,
