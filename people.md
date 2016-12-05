@@ -27,7 +27,7 @@ navigation_weight: 3
 
 
 <img src="http://tammingalab.github.io/images/amy.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Amy Goodwin Davies** is a graduate student in  Linguistics. Her research interests include the mental representation of morphosyntactic structure and clinical applications of linguistics.
+**Amy Goodwin Davies** is a graduate student in Linguistics. Her research interests include the mental representation of morphosyntactic structure and clinical applications of linguistics.
 
 <br style="clear:both" />
 
@@ -39,10 +39,14 @@ navigation_weight: 3
 
 
 <img src="http://tammingalab.github.io/images/wei.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Wei Lai**  is a graduate student in  Linguistics . Her research interests include speech production and perception and the suprasegmental part of speech.
+**Wei Lai**  is a graduate student in  Linguistics. Her research interests include speech production and perception and the suprasegmental part of speech.
 
 <br style="clear:both" />
 
+<img src="http://tammingalab.github.io/images/ruaridh.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+**Ruaridh Purse** is a graduate student in Linguistics. His primary interests lie within phonetics and phonology, with particular emphasis on the articulatory realities of variable phenomena and exploring systematic articulatory variation..
+
+<br style="clear:both" />
 
 <img src="http://tammingalab.github.io/images/tad.png" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 **Edward Rider-Bezerra**  is a  graduate student in Linguistics. His primary interests include language change and morphosyntactic processing, as well as the relationship between memory and language.
@@ -52,5 +56,16 @@ navigation_weight: 3
 
 <img src="http://tammingalab.github.io/images/betsy.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 **Betsy Sneller**  is a  graduate student in Linguistics. Her primary interest is in language variation and change.
+
+<br style="clear:both" />
+
+
+<img src="http://tammingalab.github.io/images/lacey.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+**Lacey Arnold Wade**  is a  graduate student in Linguistics. She is primarily interested in language variation and change and the relationship between production and perception.
+
+<br style="clear:both" />
+
+<img src="http://tammingalab.github.io/images/yosiane.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+**Yosiane White**  is a raduate student in Linguistics. Her research interests include socio- and psycholinguistic models related to language variation in accents and dialects.
 
 <br style="clear:both" />
