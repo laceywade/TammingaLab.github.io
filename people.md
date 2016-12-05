@@ -44,7 +44,7 @@ navigation_weight: 3
 <br style="clear:both" />
 
 <img src="http://tammingalab.github.io/images/ruaridh.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Ruaridh Purse** is a graduate student in Linguistics. His primary interests lie within phonetics and phonology, with particular emphasis on the articulatory realities of variable phenomena and exploring systematic articulatory variation..
+**Ruaridh Purse** is a graduate student in Linguistics. His primary interests lie within phonetics and phonology, with particular emphasis on the articulatory realities of variable phenomena and exploring systematic articulatory variation.
 
 <br style="clear:both" />
 
