@@ -9,7 +9,7 @@ navigation_weight: 3
 ## Lab members
 
 <img src="http://tammingalab.github.io/images/meredith.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Meredith Tamminga** is the lab director and an Assistant Professor of Linguistics at the University of Pennsylvania. She received her Ph.D. from the University of Pennsylvania in 2014.
+[**Meredith Tamminga**](https://www.meredithtamminga.com) is the lab director and an Assistant Professor of Linguistics at the University of Pennsylvania. She received her Ph.D. from the University of Pennsylvania in 2014.
 
 <br style="clear:both" />
 
@@ -21,19 +21,19 @@ navigation_weight: 3
 
 
 <img src="http://tammingalab.github.io/images/akiva.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Hezekiah Akiva Bacovcin** is a graduate student in Linguistics. His primary interests are in syntactic processing and the interaction of theoretical questions and linguistic variation/change.
+[**Hezekiah Akiva Bacovcin**](http://www.hakivabacovcin.com/) is a graduate student in Linguistics. His primary interests are in syntactic processing and the interaction of theoretical questions and linguistic variation/change.
 
 <br style="clear:both" />
 
 
 <img src="http://tammingalab.github.io/images/amy.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Amy Goodwin Davies** is a graduate student in Linguistics. Her research interests include the mental representation of morphosyntactic structure and clinical applications of linguistics.
+[**Amy Goodwin Davies**](http://www.ling.upenn.edu/~amygood/) is a graduate student in Linguistics. Her research interests include the mental representation of morphosyntactic structure and clinical applications of linguistics.
 
 <br style="clear:both" />
 
 
 <img src="http://tammingalab.github.io/images/duna.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Duna Gylfadottir**  is a graduate student in Linguistics. Her primary interests are language variation and dialect accommodation.
+[**Duna Gylfadottir**](http://www.ling.upenn.edu/~gug/)  is a graduate student in Linguistics. Her primary interests are language variation and dialect accommodation.
 
 <br style="clear:both" />
 
@@ -55,7 +55,7 @@ navigation_weight: 3
 
 
 <img src="http://tammingalab.github.io/images/betsy.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Betsy Sneller**  is a  graduate student in Linguistics. Her primary interest is in language variation and change.
+[**Betsy Sneller**](http://www.ling.upenn.edu/~esnell/)  is a  graduate student in Linguistics. Her primary interest is in language variation and change.
 
 <br style="clear:both" />
 
@@ -66,6 +66,6 @@ navigation_weight: 3
 <br style="clear:both" />
 
 <img src="http://tammingalab.github.io/images/yosiane.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Yosiane White**  is a raduate student in Linguistics. Her research interests include socio- and psycholinguistic models related to language variation in accents and dialects.
+**Yosiane White**  is a graduate student in Linguistics. Her research interests include socio- and psycholinguistic models related to language variation in accents and dialects.
 
 <br style="clear:both" />
