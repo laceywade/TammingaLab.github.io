@@ -61,7 +61,7 @@ navigation_weight: 3
 
 
 <img src="http://tammingalab.github.io/images/lacey.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Lacey Arnold Wade**  is a  graduate student in Linguistics. She is primarily interested in language variation and change and the relationship between production and perception.
+[**Lacey Arnold Wade**](http://laceyarnoldwade.wixsite.com/laceyarnoldwade) is a  graduate student in Linguistics. She is primarily interested in language variation and change and the relationship between production and perception.
 
 <br style="clear:both" />
 
