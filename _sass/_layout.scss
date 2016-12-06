@@ -31,19 +31,18 @@ a:hover {
 
 header {
 	background: $header;
-	margin: 30px 0 0; /*set  header down a little from top*/
-	height: 10vh; 
+	margin: 5% 0 0; /*set  header down a little from top*/
+	padding: 1% 0 1% 0; 
 }
 
 div.container {
 	max-width: $content-width;
 	margin: 0 auto;
-	padding: 0px 20px;
 }
 
 nav.main-nav ul {
   margin: 0;
-  padding: 0;
+padding: 1% 0 1% 0; 
   list-style: none;
   float: right;
 }
@@ -54,10 +53,8 @@ nav.main-nav a {
 }
 
 nav.main-nav li a {
-  padding: 0px 10px;
+  padding: 0  10%;
 }
-
-
 
 footer {
 	text-align: right;
