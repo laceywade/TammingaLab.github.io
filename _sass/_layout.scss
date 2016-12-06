@@ -13,6 +13,7 @@ body {
 h1 {
 	font-weight: normal;
 	font-size: 1.5em;
+	width: 70.85%;
 }
 
 
@@ -33,6 +34,7 @@ header {
 	background: $header;
 	margin: 5% 0 0; /*set  header down a little from top*/
 	padding: 1% 0 1% 0; 
+	/*max-width: $content-width;*/
 }
 
 div.container {
