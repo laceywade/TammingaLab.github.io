@@ -1,15 +1,15 @@
 $content-width: 800px;
-$main: #ecf0f1; /*body background color */
+$main: #fff; /*body background color */
 $font-style: 'Open Sans', sans-serif;
-$font-color: #2c3e50; /*paragraph text*/
+$font-color: #000; /*paragraph text*/
 $link-color: #bdc3c7; /*will end up in header*/
 $link-hover-color: #e74c3c;
 $link-inactive-color: #95a5a6;
 $link-active-color: #fff;
 $heading-font: 'Muli', sans-serif;
-$heading-font-color: #2D3142; /*for page title*/
+$heading-font-color: #000; /*for page title*/
 $light: #E6EBE0; /*bottom of page? haven't changed*/
-$header:  #2c3e50;
+$header:  #fff; /*header background color*/
 
 *,
 *::before,
