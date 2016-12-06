@@ -5,8 +5,9 @@
 		<body>
 			 <header>
       <div class="container">
-      <nav>
-  <ul>
+      <nav class="main-nav">
+      
+     <ul>   
     {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
     {% for p in navigation_pages %}
       {% if p.navigation_weight %}
@@ -18,8 +19,9 @@
       {% endif %}
     {% endfor %}
   </ul>
-</nav>
-        <h2><a href="/">Language Variation and Cognition Lab</a></h2>
+  </nav>
+		<h3><a href="/">Language Variation & Cognition Lab</a></h3>
+  <ul>
       </div>
     </header>
 			<div class="container">
