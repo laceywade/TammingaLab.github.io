@@ -6,7 +6,11 @@ title: About
 navigation_weight: 2
 ---
 
-Our research group shares the following general goals:
+### About our research
+
+***
+
+Our research group shares the following general goals: 
 
 - To model the mental representation of variability in language
 - To integrate experimental and naturalistic data across diverse populations
