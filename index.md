@@ -6,7 +6,7 @@ navigation_weight: 1
 ---
 
 
-Welcome to the website for the Language Variation and Cognition Lab at the University of Pennsylvania. We are currently under construction!
+Welcome to the website for the Language Variation and Cognition Lab at the University of Pennsylvania. Click here to sign up to participate in our current study!
 
 People use language in ways that are constantly shifting. Think about how differently you might talk when you're hanging out with your friends than when you're at the doctor or meeting with a professor! All kinds of things about our social lives, our identities, and the contexts we find ourselves in influence the way we speak. What's more, although we do have some control over our speech style, most of the time we make these adjustments on the fly, without really thinking about it.
 
