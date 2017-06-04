@@ -12,6 +12,7 @@ navigation_weight: 2
 </head>
 <body>
 
+
 <h1>Directions to our Lab</h1>
 <p>Our lab is located in the Department of Linguistics at the University of Pennsylvania: </p>
 <p>3401-C Walnut Street, Suite 300, C Wing, Philadelphia, PA 19104-6228 </p>
@@ -40,10 +41,94 @@ function myMap() {
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBsOSHVkd1zNwwt2Kkm_HgFiPB692M4bVg&callback=myMap"></script>
 
 <h1>Parking</h1>
-<p>There are various parking options around our lab. We recommend street parking around our lab. 
-  Additionally, there are <a href="https://cms.business-services.upenn.edu/parking/where-to-park/visitors-and-vendors.html">
+<p>There are various parking options around our lab. We recommend street parking. 
+  Additionally, there are <a href="https://cms.business-services.upenn.edu/parking/where-to-park/visitors-and-vendors.html"> 
   parking garages</a> near our office. Please note that you are responsible for covering the costs of parking.</p>
 
+<h1>Get to our Lab</h1>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 6</div>
+  <img src="/images/outside.JPG" style="width:100%">
+  <div class="text">The outside entrance to our building. It is in between the CVS and Modern Eye.</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 6</div>
+  <img src="/images/firstelevator.JPG" style="width:100%">
+  <div class="text">Take the elevator from first floor to the third floor. The stairs do not directly connect to the
+    third floor.</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 6</div>
+  <img src="/images/thirdelevator.JPG" style="width:100%">
+  <div class="text">Once you exit the elevator, enter through the white door on the right. </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 6</div>
+  <img src="/images/entrance.JPG" style="width:100%">
+  <div class="text">The entrance to the Linguistics Department is on the left.</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 6</div>
+  <img src="/images/door.JPG" style="width:100%">
+  <div class="text">The waiting room is through the first door on the left. </div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 6</div>
+  <img src="/images/waiting.JPG" style="width:100%">
+  <div class="text">Take a seat on one of the chairs. The experimenter will grab you once they are ready.</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+  <span class="dot" onclick="currentSlide(6)"></span> 
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
 
 </body>
 </html>
