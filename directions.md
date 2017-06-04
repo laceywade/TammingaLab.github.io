@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /about/
+permalink: /directions/
 published: true
-title: About
+title: Directions
 navigation_weight: 2
 ---
 
