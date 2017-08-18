@@ -42,12 +42,17 @@ navigation_weight: 3
 <br style="clear:both" />
 
 <img src="/images/lacey.jpg"/>
-[**Lacey Arnold Wade**](http://laceyarnoldwade.wixsite.com/laceyarnoldwade) is a  graduate student in Linguistics. She is primarily interested in language variation and change and the relationship between production and perception.
+[**Lacey Arnold Wade**](http://laceyarnoldwade.wixsite.com/laceyarnoldwade) is a graduate student in Linguistics. She is primarily interested in language variation and change and the relationship between production and perception.
 
 <br style="clear:both" />
 
 <img src="/images/yosiane.jpg"/>
 **Yosiane White**  is a graduate student in Linguistics. Her research interests include socio- and psycholinguistic models related to language variation in accents and dialects.
+
+<br style="clear:both" /> 
+
+<img src="/images/rob.jpg"/>
+[**Robert Wilder**](http://www.ling.upenn.edu/~rwilder/) is a graduate student in Linguistics. His dissertation concerns the mental representation of speakers' voices. Other research interests include experimental morphosyntax and neuro-linguistics.
 
 <br style="clear:both" /> 
 
