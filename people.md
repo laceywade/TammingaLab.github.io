@@ -21,6 +21,11 @@ navigation_weight: 3
 
 <br style="clear:both" />
 
+<img src="/images/sabriya.jpg"/>
+[**Sabriya Fisher**](http://www.ling.upenn.edu/~sabriya/) is a graduate students in Linguistics. Her research interests are in language variation and change with a focus on African American English. 
+
+<br style="clear:both" />
+
 <img src="/images/duna.jpg"/>
 [**Duna Gylfadottir**](http://www.ling.upenn.edu/~gug/)  is a graduate student in Linguistics. Her primary interests are language variation and dialect accommodation.
 
