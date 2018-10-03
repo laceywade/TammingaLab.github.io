@@ -21,11 +21,6 @@ navigation_weight: 3
 
 <br style="clear:both" />
 
-<img src="/images/sabriya.jpg"/>
-[**Sabriya Fisher**](http://www.ling.upenn.edu/~sabriya/) is a graduate students in Linguistics. Her research interests are in language variation and change with a focus on African American English. 
-
-<br style="clear:both" />
-
 <img src="/images/duna.jpg"/>
 [**Duna Gylfadottir**](http://www.ling.upenn.edu/~gug/)  is a graduate student in Linguistics. Her primary interests are language variation and dialect accommodation.
 
@@ -38,11 +33,6 @@ navigation_weight: 3
 
 <img src="/images/ruaridh.jpg"/>
 **Ruaridh Purse** is a graduate student in Linguistics. His primary interests lie within phonetics and phonology, with particular emphasis on the articulatory realities of variable phenomena and exploring systematic articulatory variation.
-
-<br style="clear:both" />
-
-<img src="/images/betsy.jpg"/>
-[**Betsy Sneller**](http://www.ling.upenn.edu/~esnell/)  is a  graduate student in Linguistics. Her primary interest is in language variation and change.
 
 <br style="clear:both" />
 
@@ -63,19 +53,10 @@ navigation_weight: 3
 
 ### Lab alumni
 
-***
-<img src="/images/akiva.jpg"/>
-[**Hezekiah Akiva Bacovcin**](http://www.hakivabacovcin.com/) completed a Ph.D. in Linguistics in May 2017. His primary interests are in syntactic processing and the interaction of theoretical questions and linguistic variation/change.
+- [**Hezekiah Akiva Bacovcin**](http://www.hakivabacovcin.com/) completed a Ph.D. in linguistics in 2017. 
+- **Eli Cooper** was our lab coordinator from 2014-2017. 
+- [**Sabriya Fisher**](http://www.ling.upenn.edu/~sabriya/) completed a Ph.D. in linguistics in 2018. 
+- **Edward Rider-Bezerra**  completed an MA in linguistics in 2017. 
+- [**Betsy Sneller**](http://www.ling.upenn.edu/~esnell/) completed a Ph.D. in linguistics in 2018. 
 
-<br style="clear:both" />
-
-<img src="/images/eli.jpg"/>
-**Eli Cooper** was our lab coordinator from 2014-2017. She completed her Bachelor’s in Linguistics from the University of Maryland. Her primary interests are the evolution of language and speech perception/production. 
-
-<br style="clear:both" />
-
-<img src="/images/tad.png"/>
-**Edward Rider-Bezerra**  completed an MA in Linguistics in May 2017. His primary interests include language change and morphosyntactic processing, as well as the relationship between memory and language.
-
-<br style="clear:both" />
 
