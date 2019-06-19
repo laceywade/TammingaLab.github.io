@@ -27,7 +27,7 @@ navigation_weight: 3
 <br style="clear:both" />
 
 <img src="/images/lacey.jpg"/>
-[**Lacey Arnold Wade**](http://laceyarnoldwade.wixsite.com/laceyarnoldwade) is a graduate student in Linguistics. She is primarily interested in language variation and change and the relationship between production and perception.
+[**Lacey Arnold Wade**](https://laceyarnoldwade.wixsite.com/laceyarnoldwade) is a graduate student in Linguistics. She is primarily interested in language variation and change and the relationship between production and perception.
 
 <br style="clear:both" />
 
