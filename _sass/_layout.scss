@@ -29,6 +29,10 @@ a.active {
 	color: $link-active-color;
 }
 
+a.inactive {
+	color: $link-inactive-color;
+}
+
 a:hover {
 	color: $link-hover-color;
 }
