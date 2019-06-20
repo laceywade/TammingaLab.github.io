@@ -12,7 +12,7 @@ navigation_weight: 3
 ***
 
 <img src="/images/meredith.jpg"/>
-[**Meredith Tamminga**](https://www.meredithtamminga.com) is the lab director and an Assistant Professor of Linguistics at the University of Pennsylvania. She received her Ph.D. from the University of Pennsylvania in 2014.
+[**Meredith Tamminga**](http://www.meredithtamminga.com) is the lab director and an Assistant Professor of Linguistics at the University of Pennsylvania. She received her Ph.D. from the University of Pennsylvania in 2014.
 
 <br style="clear:both" />
 
