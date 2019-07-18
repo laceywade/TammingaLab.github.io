@@ -16,13 +16,18 @@ navigation_weight: 3
 
 <br style="clear:both" />
 
+<img src="/images/ava.jpg"/>
+[**Ava Creemers**](http://www.avacreemers.com/) is a graduate student in Linguistics. Her primary research interests lie within psycholinguistics, and in particular the processing of morphologically complex words..
+
+<br style="clear:both" />
+
 <img src="/images/wei.jpg"/>
 [**Wei Lai**](https://www.ling.upenn.edu/~weilai/index.html)  is a graduate student in Linguistics. Her research interests include speech production and perception and the suprasegmental part of speech.
 
 <br style="clear:both" />
 
 <img src="/images/ruaridh.jpg"/>
-[**Ruaridh Purse**](www.rupurse.com) is a graduate student in Linguistics. His primary interests lie within phonetics and phonology, with particular emphasis on the articulatory realities of variable phenomena and exploring systematic articulatory variation.
+[**Ruaridh Purse**](https://www.rupurse.com/) is a graduate student in Linguistics. His primary interests lie within phonetics and phonology, with particular emphasis on the articulatory realities of variable phenomena and exploring systematic articulatory variation.
 
 <br style="clear:both" />
 
