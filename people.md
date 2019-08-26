@@ -26,6 +26,11 @@ navigation_weight: 3
 
 <br style="clear:both" />
 
+<img src="/images/aini.jpg"/>
+**Aini Li** is a graduate student in Linguistics. Her research interests include language change and variation as well as mental representation/processing of language variability, with a particular interest in the production and perception of morphosyntactic variables.
+
+<br style="clear:both" />
+
 <img src="/images/ruaridh.jpg"/>
 [**Ruaridh Purse**](https://www.rupurse.com/) is a graduate student in Linguistics. His primary interests lie within phonetics and phonology, with particular emphasis on the articulatory realities of variable phenomena and exploring systematic articulatory variation.
 
