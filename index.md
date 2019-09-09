@@ -16,7 +16,8 @@ We are affiliated with [MindCORE](https://mindcore.sas.upenn.edu/), Penn's hub f
 * The [Social and Cultural Evolution Working Group](https://web.sas.upenn.edu/scew/)
 
 Our research is situated at the intersection of sociolinguistics and psycholinguistics. Broadly speaking, our shared research aims are:
-* To model the mental representation and processing of inter- and intra-speaker linguistic variability 
+* To model the mental representation and processing of inter- and intra-speaker linguistic variability
+* To use psycholinguistic evidence as a window on the interplay between social and grammatical influences on variable behavior
 * To integrate experimental and naturalistic data across diverse populations
 * To relate individual and group-level linguistic behavior and phenomena, especially with respect to language change
 * To develop quantitative approaches to the microtemporal dynamics of language variation in perception and production
