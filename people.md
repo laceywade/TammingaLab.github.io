@@ -17,7 +17,7 @@ navigation_weight: 2
 <br style="clear:both" />
 
 <img src="/images/ava.jpg"/>
-[**Ava Creemers**](http://www.avacreemers.com/) is a graduate student in Linguistics. Her primary research interests lie within psycholinguistics, and in particular the processing of morphologically complex words..
+[**Ava Creemers**](http://www.avacreemers.com/) is a graduate student in Linguistics. Her primary research interests lie within psycholinguistics, and in particular the processing of morphologically complex words.
 
 <br style="clear:both" />
 
