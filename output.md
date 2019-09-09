@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /about/
+permalink: /output/
 published: true
-title: About
+title: Output
 navigation_weight: 2
 ---
 
