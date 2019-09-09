@@ -20,7 +20,7 @@ navigation_weight: 3
 - Tamminga, M., Ahern, C. & Ecay, A. 2016. [Generalized Additive Mixed Models for intraspeaker variation.](https://www.degruyter.com/view/j/lingvan.2016.2.issue-s1/lingvan-2016-0030/lingvan-2016-0030.xml) *Linguistics Vanguard* 2(s1):33-41.
 
 
-### Selected talks
+### Recent talks
 
 ***
 
