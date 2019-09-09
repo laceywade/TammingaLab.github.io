@@ -47,11 +47,11 @@ navigation_weight: 3
 <br style="clear:both" /> 
 
 
-### Lab alumni
+### Former lab affiliates
 
 - **Hezekiah Akiva Bacovcin** completed a Ph.D. in linguistics in 2017. 
 - **Eli Cooper** was our lab coordinator from 2014-2017. 
-- [**Sabriya Fisher**](https://www.wellesley.edu/cogsci/faculty/sfisher) completed a Ph.D. in linguistics in 2018. 
+- [**Sabriya Fisher**](https://www.sabriya-fisher.com/) completed a Ph.D. in linguistics in 2018. 
 - **Amy Goodwin Davies** completed a Ph.D. in linguistics in 2018.
 - [**Duna Gylfadottir**](http://www.ling.upenn.edu/~gug/) completed a Ph.D. in linguistics in 2018.
 - **Edward Rider-Bezerra** completed an MA in linguistics in 2017. 
