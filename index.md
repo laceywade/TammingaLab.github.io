@@ -22,5 +22,7 @@ Our research is situated at the intersection of sociolinguistics and psycholingu
 * To relate individual and group-level linguistic behavior and phenomena, especially with respect to language change
 * To develop quantitative approaches to the microtemporal dynamics of language variation in perception and production
 
+Inquiries from both prospective undergraduate RAs and prospective Ph.D. students should be directed to Meredith Tamminga. 
+
 
 
