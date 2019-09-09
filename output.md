@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /output/
+permalink: /research/
 published: true
-title: Output
+title: Research
 navigation_weight: 2
 ---
 
