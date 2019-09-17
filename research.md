@@ -3,7 +3,6 @@ layout: default
 permalink: /research/
 published: true
 title: Research
-navigation_weight: 3
 ---
 
 

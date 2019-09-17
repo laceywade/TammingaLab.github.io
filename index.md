@@ -2,7 +2,6 @@
 layout: default
 title: Home
 published: true
-navigation_weight: 1
 ---
 
 

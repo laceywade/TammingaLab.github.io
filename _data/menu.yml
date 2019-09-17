@@ -1,0 +1,12 @@
+- title: "Home"
+  href: "/"
+
+
+- title: "People"
+  href: "/people/"
+
+- title: "Research"
+  href: "/research/"
+
+- title: "Directions"
+  href: "/directions/"

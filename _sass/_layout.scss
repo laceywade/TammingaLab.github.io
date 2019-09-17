@@ -1,77 +1,187 @@
-body {
-	background: $main;
-	padding: 0;
-	margin: 0;
-	color: $font-color;
-	font-family: $font-style;
-	font-size: 100%;
-	line-height: 1.6em;
-	-webkit-font-smoothing: antialiased;
+/**
+ * Site footer
+ */
+.site-footer {
+    border-top: 1px solid $grey-color-light;
+    padding: $spacing-unit 0;
+}
+
+.footer-heading {
+    font-size: 18px;
+    margin-bottom: $spacing-unit / 2;
+}
+
+.contact-list,
+.social-media-list {
+    list-style: none;
+    margin-left: 0;
+}
+
+.footer-col-wrapper {
+    font-size: 15px;
+    color: $grey-color;
+    margin-left: -$spacing-unit / 2;
+    @extend %clearfix;
+}
+
+.footer-col {
+    float: left;
+    margin-bottom: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+}
+
+.footer-col-1 {
+    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+    width:         calc(35% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+    width:         calc(20% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
+    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+    width:         calc(45% - (#{$spacing-unit} / 2));
+}
+
+@include media-query($on-laptop) {
+    .footer-col-1,
+    .footer-col-2 {
+        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+        width:         calc(50% - (#{$spacing-unit} / 2));
+    }
+
+    .footer-col-3 {
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+}
+
+@include media-query($on-palm) {
+    .footer-col {
+        float: none;
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
+    }
 }
 
 
-h1 {
-	font-weight: normal;
-	font-size: 1.5em;
-	/*padding: 10px 0 10px 0;*/
+
+/**
+ * Page content
+ */
+.page-content {
+    padding: $spacing-unit 0;
 }
 
-h2, h3 {
-	font-weight: normal;
+.page-heading {
+    font-size: 20px;
 }
 
-a {
-	color: $link-color;
-	text-decoration: none;
+.post-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
 }
 
-a.active {
-	color: $link-active-color;
+.post-meta {
+    font-size: $small-font-size;
+    color: $grey-color;
 }
 
-a.inactive {
-	color: $link-inactive-color;
+.post-link {
+    display: block;
+    font-size: 24px;
 }
 
-a:hover {
-	color: $link-hover-color;
+
+
+/**
+ * Posts
+ */
+.post-header {
+    margin-bottom: $spacing-unit;
 }
 
-header {
-	background: $header;
-	margin: 5% 0 0; /*set  header down a little from top*/
-	padding: 10px 0 10px 0; 
-	/*max-width: $content-width;*/
+h1 /* .post-title */ {
+/*    font-size: 42px; */
+    margin-top: 10px;
+    letter-spacing: -1px;
+    line-height: 1;
+		font-family: 'Open Sans', sans-serif;
+		color: $blue-color-dark;
+
+    @include media-query($on-laptop) {
+/*        font-size: 36px; */
+    }
 }
 
-div.container {
-	max-width: $content-width;
-	margin: 3% auto; 
+.post-content {
+    margin-bottom: $spacing-unit;
+
+    h2 {
+		font-family: 'Open Sans', sans-serif;
+	    font-weight: 500;
+/*        font-size: 32px; */
+
+        @include media-query($on-laptop) {
+/*            font-size: 28px; */
+        }
+    }
+
+    h3 {
+		font-style: italic;
+        font-weight: 500;
+/*        font-size: 26px; */
+
+        @include media-query($on-laptop) {
+/*            font-size: 22px; */
+        }
+    }
+
+    h4 {
+/*       font-size: 20px; */
+
+        @include media-query($on-laptop) {
+/*            font-size: 18px; */
+        }
+    }
 }
 
-nav.main-nav ul {
-  margin: 0;
-  /*padding: 10px 0 10px 0; */
-  list-style: none;
-  float: right;
+.footnotes ol li {list-style-type:decimal;}
+.footnotes ol {font-size:.85em; color:#666666;}	
+	
+html {
+  overflow-y: scroll;
 }
 
-nav.main-nav li,
-nav.main-nav a {
-  display: inline-block;
+ul.listing {
+	list-style-type: none;
+	margin-left: 0px;
 }
 
-nav.main-nav li a {
-  padding: 0  10px; /* spaces the header options apart horizontally */
+ul.listing li.listing-seperator {
+	padding-top: 15px;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.17em;
 }
 
-img {
-	width: 8em; 
-	float: left; 
-	margin: 0 3% 3% 0;
+ul.listing li.listing-item time {
+
+	color: #333;
+	font-weight: 500;
+	text-transform: uppercase;
+	padding-right: 10px;
 }
 
-footer {
-	text-align: right;
-	padding: 40px;
+ul.listing li.listing-item a {
+	color: $blue-color-dark;
+	font-weight: 400;
+	font-family: 'Open Sans', sans-serif;
 }
+
