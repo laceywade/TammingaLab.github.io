@@ -3,21 +3,22 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
+    background-color: $brand-color;
     // min-height: 56px;
-    background-image: linear-gradient($blue-color-light, $blue-color-light);
+    //background-image: $brand-color-light;
     //box-shadow: 0px 5px 10px grey;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 25px;
 /* 		margin-top: 15px;
     line-height: 40px; */
     // letter-spacing: -1px;
     // margin-bottom: 0;
     float: left;
-    font-weight: 500;
+    font-weight: 400;
 		font-family: 'Open Sans', sans-serif;
     color: #ffffff;
     &,
@@ -67,12 +68,16 @@
     vertical-align: top;
     &:hover {
         text-decoration: underline;
+        color: $hover-color;
     }
 }
 
 .site-nav a {
 	display: block;
     color: #ffffff;
+    &:hover {
+    	color: lighten($hover-color, 40%);
+    	}
 }
 
 /* Sub Menu */
@@ -84,11 +89,11 @@
 	letter-spacing: 0;
 	line-height: 1.2em;
 	padding: 4px 10px;
-    color: $blue-color-dark;
+    color: $brand-color;
 }
 
 .site-nav .sub-menu a:hover {
-	color: $blue-color-light;
+	color: $hover-color;
 }
 .site-nav  .sub-menu {
 	// background: #ffffff;
@@ -98,15 +103,15 @@
 	z-index:2147483647;
 }
 .site-nav .sub-menu li.current-menu-item > a {
-	border-left-color: $blue-color-light;
-	border-right-color: $blue-color-light;
+	border-left-color: $brand-color;
+	border-right-color: $brand-color;
 	border-right: 0px;
 
 }
 
 
 .sub-menu {
-	border: 3px solid $blue-color-dark;
+	border: 3px solid $brand-color;
     border-top: 20px solid transparent;
 	/* bg and border colors set in header */
 	box-shadow: 0 2px 2px rgba(0,0,0,0.4);

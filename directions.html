@@ -3,6 +3,7 @@ layout: default
 permalink: /directions/
 published: true
 title: Directions
+navigation_weight: 4
 ---
 <!DOCTYPE html>
 <html>
@@ -33,6 +34,7 @@ title: Directions
   font-size: 18px;
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
+  background-color: rgba(0,0,0,0.8);
 }
 
 /* Position the "next button" to the right */
@@ -43,7 +45,7 @@ title: Directions
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  background-color: $hover-color;
 }
 
 /* Caption text */
@@ -98,13 +100,15 @@ title: Directions
 <body>
 
 
-<h1>Directions to our Lab</h1>
-<p>Our lab is located in the Department of Linguistics at the University of Pennsylvania: </p>
-<p>3401-C Walnut Street, Suite 300, C Wing, Philadelphia, PA 19104-6228 </p>
+<h3>Lab location</h3>
+<p>
+3401-C Walnut Street, Suite 300C </br>
+Rooms 336C & 337C </br>
+ Philadelphia, PA 19104 </p>
   
 <!-- The Google Map -->
 
-<div id="map" style="width:100%;height:500px"></div>
+<div id="map" style="width:100%;height=500px;"></div>
 
 <script>
 function myMap() {
@@ -125,15 +129,16 @@ function myMap() {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC00zfks52QUI9MStB6-6WI3zgorNoD0_g&callback=myMap"></script>
 
-<p>Additionally, our lab is accessible by SEPTA. There is a <a href="http://www.septa.org/service/trolley/"> trolley stop</a> 
-  on 36th and Sansom St and a <a href="http://www.septa.org/service/mfl/"> MFL stop</a> on 34th and Market St. </p>
   
-<h1>Parking</h1>
-<p>There are various parking options around our lab. We recommend street parking. 
-  Additionally, there are <a href="https://cms.business-services.upenn.edu/parking/where-to-park/visitors-and-vendors.html"> 
-  parking garages</a> near our office. Please note that you are responsible for covering the costs of parking.</p>
+<h3>Getting here & parking</h3>
+<p>To get here by SEPTA, you can go to the <a href="http://www.septa.org/service/trolley/"> trolley stop</a> 
+  at 36th and Sansom or the <a href="http://www.septa.org/service/mfl/"> MFL stop</a> at 34th and Market. </p>
+  
+<p>It is possible, although sometimes difficult, to park on the street near the lab.
+  There are also several <a href="https://cms.business-services.upenn.edu/transportation/live-maps/parking-map.html"> 
+  parking garages</a> nearby.</p>
 
-<h1>Get to our Lab</h1>
+<h3>Finding us in the building</h3>
 <p> Click through the slideshow to see how to find us in the building.</p>
 <div class="slideshow-container">
 

@@ -38,12 +38,12 @@
 .site-nav .menu li {
 		display: block;
 		margin: 0;
-		color: $blue-color-dark;
+		color: $brand-color-dark;
 	}
 
 .site-nav ul.menu a {
 	background: #fff;
-	color: $blue-color-dark;
+	color: $brand-color-dark;
 
 }
 
@@ -58,12 +58,12 @@
 		-webkit-box-shadow: none; /* Saf3+, Chrome */
 		box-shadow: none; /* Standard. Opera 10.5, IE9 */
 		display: block;
-		font-family: 'Titillium Web', Helvetica, Arial, Verdana, sans-serif;
+		font-family: 'Open Sans', Helvetica, Arial, Verdana, sans-serif;
 		position: relative;
 		min-width: 215px;
 		max-width: 215px;
 		top: auto;
-		text-transform: uppercase;
+		//text-transform: uppercase;
 		right: auto;
 		width: auto;
 		background: white;
