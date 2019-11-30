@@ -8,39 +8,40 @@ published: true
 
 ### Current lab members
 
-***
 
-<img src="/images/meredith.jpg"/>
+  
+  
+<img src="/images/meredith.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 [**Meredith Tamminga**](http://www.meredithtamminga.com) is the lab director and an Assistant Professor of Linguistics at the University of Pennsylvania. She received her Ph.D. from the University of Pennsylvania in 2014.
 
 <br style="clear:both" />
 
-<img src="/images/ava.jpg"/>
+<img src="/images/ava.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 [**Ava Creemers**](http://www.avacreemers.com/) is a graduate student in Linguistics. Her primary research interests lie within psycholinguistics, and in particular the processing of morphologically complex words.
 
 <br style="clear:both" />
 
-<img src="/images/wei.jpg"/>
+<img src="/images/wei.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 [**Wei Lai**](https://www.ling.upenn.edu/~weilai/index.html)  is a graduate student in Linguistics. Her research interests include speech production and perception and the suprasegmental part of speech.
 
 <br style="clear:both" />
 
-<img src="/images/aini.jpg"/>
+<img src="/images/aini.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 **Aini Li** is a graduate student in Linguistics. Her research interests include language change and variation as well as mental representation/processing of language variability, with a particular interest in the production and perception of morphosyntactic variables.
 
 <br style="clear:both" />
 
-<img src="/images/ruaridh.jpg"/>
+<img src="/images/ruaridh.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 [**Ruaridh Purse**](https://www.rupurse.com/) is a graduate student in Linguistics. His primary interests lie within phonetics and phonology, with particular emphasis on the articulatory realities of variable phenomena and exploring systematic articulatory variation.
 
 <br style="clear:both" />
 
-<img src="/images/lacey.jpg"/>
+<img src="/images/lacey.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 [**Lacey Wade**](https://www.laceywade.com/) is a graduate student in Linguistics. She is primarily interested in language variation and change and the relationship between production and perception.
 
 <br style="clear:both" />
 
-<img src="/images/yosiane.jpg"/>
+<img src="/images/yosiane.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 [**Yosiane White**](https://yosianewhite.net/)  is a graduate student in Linguistics. Her research interests include socio- and psycholinguistic models related to language variation in accents and dialects.
 
 <br style="clear:both" /> 

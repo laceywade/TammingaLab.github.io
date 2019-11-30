@@ -13,16 +13,17 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
+
 body {
     font-family: $base-font-family;
-    font-size: $base-font-size;
+    font-size:   $base-font-size;
     line-height: $base-line-height;
     font-weight: 300;
-    color: $text-color;
+    color:       $text-color;
     background-color: $background-color;
+    margin: 0 .75em;
     -webkit-text-size-adjust: 100%;
 }
-
 
 
 
@@ -119,6 +120,14 @@ blockquote {
     }
 }
 
+
+
+// Images
+img {
+    max-width: 100%;
+    margin: 0px 15px 15px 0px;
+    vertical-align: middle;
+}
 
 /**
  * Code formatting

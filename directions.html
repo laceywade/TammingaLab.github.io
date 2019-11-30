@@ -103,31 +103,11 @@ navigation_weight: 4
 <h3>Lab location</h3>
 <p>
 3401-C Walnut Street, Suite 300C </br>
+(Building is 3401 Walnut, but street address is 3417 Walnut) </br>
 Rooms 336C & 337C </br>
- Philadelphia, PA 19104 </p>
-  
-<!-- The Google Map -->
+Philadelphia, PA 19104 </p>
 
-<div id="map" style="width:100%;height=500px;"></div>
-
-<script>
-function myMap() {
-  var myCenter = new google.maps.LatLng(39.953067, -75.193001);
-  var mapCanvas = document.getElementById("map");
-  var mapOptions = {center: myCenter, zoom: 15};
-  var map = new google.maps.Map(mapCanvas, mapOptions);
-  var marker = new google.maps.Marker({position:myCenter});
-  marker.setMap(map);
-
-  // Zoom to 18 when clicking on marker
-  google.maps.event.addListener(marker,'click',function() {
-    map.setZoom(18);
-    map.setCenter(marker.getPosition());
-  });
-}
-</script>
-
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC00zfks52QUI9MStB6-6WI3zgorNoD0_g&callback=myMap"></script>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3058.4841886062695!2d-75.19521068462387!3d39.95292607942174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c65a7f348703%3A0x8973046a4c3ce326!2s3417%20Walnut%20St%2C%20Philadelphia%2C%20PA%2019104!5e0!3m2!1sen!2sus!4v1575139585984!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
   
 <h3>Getting here & parking</h3>
