@@ -8,6 +8,8 @@ title: Research
 
 ### Selected publications
 
+- Wade,L., Lai, W. & Tamminga, M. 2020. [The reliability of individual differences in VOT imitation.](https://1ca090aa-13da-4a34-919a-f5f66777e5a3.filesusr.com/ugd/afb247_c15b480d6c4b4751826c18e4e458dc5e.pdf) *Language and Speech.* 
+- Tamminga, M., Wilder, R., Lai, W. & Wade, L. 2020. [Perceptual learning, talker specificity, and sound change.](http://journals.ed.ac.uk/pihph/article/view/4439/6033) *Papers in Historical Phonology* 4(90).
 - Purse, R. Forthcoming. The envelope of variation for /l/ Vocalisation in Philadelphia English. *PWPL* 25(2).
 - Purse, R. 2019. [The articulatory reality of coronal stop ‘deletion’.](http://intro2psycholing.net/ICPhS/papers/ICPhS_1644.pdf) *Proceedings of ICPhS IX* 1595-1599.
 - Purse, R. 2019.  [Variable word-final schwa in French: An OT analysis.](https://repository.upenn.edu/cgi/viewcontent.cgi?article=2057&context=pwpl) *PWPL* 25(1):22.
@@ -18,13 +20,14 @@ title: Research
 - Tamminga, M. 2017. [Matched guise effects can be robust to speech style.](https://asa.scitation.org/doi/full/10.1121/1.4990399) *Journal of the Acoustical Society of America* 142, EL18-23.
 - Lai, W. 2017. [Auditory-visual integration of talker gender in Cantonese tone perception.](https://www.ling.upenn.edu/~weilai/resources/Lai2017Interspeech.pdf) *Proceedings of Interspeech 2017* 664-668.
 - Wade, L. 2017 [The role of duration in the perception of vowel merger.](https://1ca090aa-13da-4a34-919a-f5f66777e5a3.filesusr.com/ugd/afb247_3058eff9340949e1890a66d9ebb97094.pdf) Laboratory Phonology 8(1):30.
-- Tamminga, M., L. MacKenzie & Embick, D. 2016. [The dynamics of variation in individuals.](https://www.jbe-platform.com/content/journals/10.1075/lv.16.2.06tam) *Linguistic Variation* 16(2):151–187.
+- Tamminga, M., MacKenzie, L. & Embick, D. 2016. [The dynamics of variation in individuals.](https://www.jbe-platform.com/content/journals/10.1075/lv.16.2.06tam) *Linguistic Variation* 16(2):151–187.
 - Tamminga, M. 2016. [Persistence in phonological and morphological variation.](https://www.cambridge.org/core/journals/language-variation-and-change/article/persistence-in-phonological-and-morphological-variation/555BB46FF7E1D0FB6EA3A94CE0B96351) *Language Variation and Change* 28:335-356.
 - Tamminga, M., Ahern, C. & Ecay, A. 2016. [Generalized Additive Mixed Models for intraspeaker variation.](https://www.degruyter.com/view/j/lingvan.2016.2.issue-s1/lingvan-2016-0030/lingvan-2016-0030.xml) *Linguistics Vanguard* 2(s1):33-41.
 
 
 ### Recent talks
 
+- Li, A. & Tamminga, M. 2020. Priming and "anti-priming" in intra- and inter-speaker variation. 33rd Annual CUNY Conference on Human Sentence Processing, Amherst, MA.
 - Wade, L. 2020. Speakers converge toward variants they haven’t heard: The case of Southern monophthongal /ay/. LSA annual meeting, New Orleans, LA.
 - Lai, W. & Tamminga, M. 2019. Individual differences in simultaneous compensation for coarticulatory and lexical cues. WSC5, UC Davis, CA. 
 - Purse, R. 2019. Task effects in the articulation of coronal stop deletion. NWAV 48, University of Oregon, Eugene, OR.
@@ -39,7 +42,7 @@ title: Research
 - Lai, W. 2018. Auditory-visual integration of talker gender in Cantonese tone perception. 92nd LSA annual meeting, Salt Lake City, UT. 
 - Purse, R. 2018. Philadelphia /l/ vocalisation is strictly coda lenition. NWAV47, NYU, New York City NY.
 - Purse, R. 2018. Variable word-final schwa in French: An OT analysis. PLC42, University of Pennsylvania, Philadelpha PA.
-- Tamminga, M., Wade, L. & Lai, W. 2018. Stability and variability in phonetic flexibility. LSA annual meeting, Salt Lake City.
+- Tamminga, M., Wade, L. & Lai, W. 2018. Stability and variability in phonetic flexibility. LSA annual meeting, Salt Lake City, UT.
 - White, Y. 2018. Switch-costs in bilingual comprehension: What is their source and are they influenced by language dominance? TALV, Arctic University of Norway, Trømso, Norway.
 
 ### External and intramural funding
